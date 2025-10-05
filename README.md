@@ -5,7 +5,7 @@ In frontend it building up of the webpages and main application ie task-mnagemen
 this project is bootstrapped with react and backend part is fully done with javascript 
 Tailwind css is also used in this project..
 both frontend and backend are connected with each other with help of axios ..(HTTP requests)
-consists of the login and signup page which allows to authenticatiom of the user 
+consists of the login and signup page which allows to authentication of the user 
 Logout component is also fully functioned..
 operations that can be done is edit and delete any task..
 API RESPONSE is also integrated when any request is called..
