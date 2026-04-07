@@ -1,1 +1,1 @@
-MONGO_URI="mongodb+srv://ShreyashPant:ShreyashPant@shreyash11234.kj164.mongodb.net/"
+MONGO_URI="https://localhost:3000"
